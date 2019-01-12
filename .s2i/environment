@@ -1,1 +1,1 @@
-DOTNET_STARTUP_PROJECT=openshiftapp/feketeopenshift.csproj
+DOTNET_STARTUP_PROJECT=testopenshift/testopenshift.csproj
